@@ -1,2 +1,2 @@
 # GurmanJestag
-twinkle twinkle big star
+twinkle twinkle little star
